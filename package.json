@@ -1,0 +1,19 @@
+{
+  "name": "projekt_trineo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrykMaternicki/projekt_trineo.git"
+  },
+  "author": "patryk maternicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrykMaternicki/projekt_trineo/issues"
+  },
+  "homepage": "https://github.com/PatrykMaternicki/projekt_trineo#readme"
+}
